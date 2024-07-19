@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: WSN_Simulator
+  annotations:
+    github.com/project-slug: Devil6sidekick/WSN_Simulator
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
